@@ -1,5 +1,5 @@
 ---
 category: 'blog section'
-title: 'Blog'
-subtitle: 'All my posts'
+title: 'Welcome To'
+subtitle: 'Artikel Section'
 ---
