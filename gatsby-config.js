@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Saardenese.`,
+    pathPrefix: "/",
     description: `Welcome to my personal website! Hope u enjoy here.`,
     author: `ftrhadtya_`
   },
@@ -61,4 +62,5 @@ module.exports = {
       }
     }
   ]
+
 };
